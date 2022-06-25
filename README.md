@@ -9,7 +9,9 @@ While you only require the R environment, we recommend you download R Studio as 
 
 Downloads:
 R: https://cran.r-project.org/
+
 R Studio: https://www.rstudio.com/products/rstudio/download/
+
 Downloading help: https://rstudio-education.github.io/hopr/starting.html
 
 While we will keep this directory available in the future, we recommend saving the files in this github directory in a folder that will also be your working directory. This is not required to run the script but will keep you organized with setting a working directory for your R workspace, which is necessary to run the script.
