@@ -26,4 +26,5 @@ A simplified version of the base case model that only generates deterministic va
 
 ### HTAi2022 VOI
 The script for performing Value of Information analysis on the results of the ToyMarkov model.
-You must have the HTAi2022ToyMarkov R Workspace saved on the working directory to successfully run this script, or run the ToyMarkov.R file first, followed by this file (ignoring the load() command on line 6.
+You must have the HTAi2022ToyMarkov R Workspace saved on the working directory to successfully run this script, or run the ToyMarkov.R file first, followed by this file (ignoring the load() command on line 6). 
+We recommend you do not run the entire script at once since it will take quite some time to run (current clock = 1.4 hours).
